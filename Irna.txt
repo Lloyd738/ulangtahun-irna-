@@ -48,7 +48,7 @@
   <div class="overlay">
     <h1>🎉 Selamat Ulang Tahun, Irna Pirnanda! 🎉</h1>
     <p>
-      Perempuan hebat, sehat selalu. Semoga di ulang tahun ini kamu tumbuh menjadi pribadi yang lebih baik lagi, lebih sabar, lebih kuat lagi. Diluaskan rezekinya, dilapangkan hatinya, dan doa‐doanya terkabul satu persatu. Aku senang bisa kenal kamu, bersyukur bisa dekat sama kamu. Aku doakan yang terbaik buat kamu 🥰🥰
+      Perempuan hebat, sehat selalu. Semoga di ulang tahun ini kamu tumbuh menjadi pribadi yang lebih baik lagi, lebih sabar, lebih kuat lagi. Diluaskan rezekinya, dilapangkan hatinya, dan doa‐doanya terkabul satu persatu. Aku senang bisa kenal kamu, bersyukur bisa dekat sama kamu. Aku doain yang terbaik buat kamu 🥰🥰
     </p>
 
     <a class="wa"
